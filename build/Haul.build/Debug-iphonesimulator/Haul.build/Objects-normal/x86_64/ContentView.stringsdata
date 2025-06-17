@@ -1,0 +1,48 @@
+{
+  "source": "/Users/erashah/Desktop/Haul/Haul/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Username",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter username",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter password",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Register",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 35
+        }
+      }
+    ]
+  },
+  "version": 1
+}

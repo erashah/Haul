@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/Haul-master.dia",
+    "emit-module-dependencies" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/Haul-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/Haul-master-emit-module.dia",
+    "swift-dependencies" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/Haul-master.swiftdeps"
+  },
+  "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/erashah/Desktop/Haul/Haul/ContentView.swift" : {
+    "const-values" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/erashah/Desktop/Haul/Haul/HaulApp.swift" : {
+    "const-values" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/HaulApp.swiftconstvalues",
+    "dependencies" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/HaulApp.d",
+    "diagnostics" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/HaulApp.dia",
+    "index-unit-output-path" : "/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/HaulApp.o",
+    "llvm-bc" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/HaulApp.bc",
+    "object" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/HaulApp.o",
+    "swift-dependencies" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/HaulApp.swiftdeps",
+    "swiftmodule" : "/Users/erashah/Desktop/Haul/build/Haul.build/Debug-iphonesimulator/Haul.build/Objects-normal/x86_64/HaulApp~partial.swiftmodule"
+  }
+}
