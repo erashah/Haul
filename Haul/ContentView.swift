@@ -43,7 +43,7 @@ struct ContentView: View {
                                 .stroke(Color.black, lineWidth: 1)
                     )
             }
-            .padding(.bottom, 30)
+            .padding(.bottom, 32)
             Button(action: {}) {
                 Text("LOG IN ")
                     .font(.custom("Poppins-SemiBold", size: 20))
