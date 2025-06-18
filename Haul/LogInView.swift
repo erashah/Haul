@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  LogInView.swift
 //  Haul
 //
 //  Created by Era Shah on 6/14/25.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct LogInView: View {
     @State private var username: String = ""
     @State private var password: String = ""
     
@@ -18,35 +18,37 @@ struct ContentView: View {
                 .scaledToFit()
                 .frame(width: 100, height: 100)
                 .padding(30)
+            
             VStack(alignment: .leading, spacing: 5) {
                 Text("USERNAME")
-                    .font(.custom("Poppins-SemiBold", size: 14))
+                    .font(.system(size: 14, weight: .semibold, design: .rounded))
                 TextField("", text: $username)
                     .padding()
                     .frame(width: 315, height: 40)
-                    .background(Color.clear)
                     .overlay(
                         RoundedRectangle(cornerRadius: 8)
-                                .stroke(Color.black, lineWidth: 1)
+                            .stroke(Color.black, lineWidth: 1)
                     )
             }
             .padding(.bottom, 16)
+            
             VStack(alignment: .leading, spacing: 5) {
                 Text("PASSWORD")
-                    .font(.custom("Poppins-SemiBold", size: 14))
-                TextField("", text: $password)
+                    .font(.system(size: 14, weight: .semibold, design: .rounded))
+                SecureField("", text: $password)
                     .padding()
                     .frame(width: 315, height: 40)
-                    .background(Color.clear)
                     .overlay(
                         RoundedRectangle(cornerRadius: 8)
-                                .stroke(Color.black, lineWidth: 1)
+                            .stroke(Color.black, lineWidth: 1)
                     )
             }
             .padding(.bottom, 32)
-            Button(action: {}) {
-                Text("LOG IN ")
-                    .font(.custom("Poppins-SemiBold", size: 20))
+            
+            Button(action: {
+            }) {
+                Text("LOG IN")
+                    .font(.system(size: 20, weight: .semibold, design: .rounded))
                     .padding()
                     .frame(width: 315)
                     .background(Color.black)
@@ -58,5 +60,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    LogInView()
 }

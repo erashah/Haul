@@ -7,10 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E15CD042E020E5400D69EA9 /* PoppinsRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E15CD032E020E5400D69EA9 /* PoppinsRegular.ttf */; };
+		9E15CD062E020EC800D69EA9 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E15CD052E020EC800D69EA9 /* Poppins-Bold.ttf */; };
+		9E15CD082E020F1E00D69EA9 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E15CD072E020F1E00D69EA9 /* Poppins-ExtraBold.ttf */; };
 		9E7CD51A2DFE19180054DC30 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E7CD5192DFE19180054DC30 /* Poppins-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9E15CD032E020E5400D69EA9 /* PoppinsRegular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = PoppinsRegular.ttf; sourceTree = "<group>"; };
+		9E15CD052E020EC800D69EA9 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		9E15CD072E020F1E00D69EA9 /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
 		9E7CD5062DFE0A4C0054DC30 /* Haul.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Haul.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E7CD5192DFE19180054DC30 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -39,13 +45,16 @@
 			children = (
 				9E7CD5082DFE0A4C0054DC30 /* Haul */,
 				9E7CD5072DFE0A4C0054DC30 /* Products */,
-				9E7CD5192DFE19180054DC30 /* Poppins-SemiBold.ttf */,
 			);
 			sourceTree = "<group>";
 		};
 		9E7CD5072DFE0A4C0054DC30 /* Products */ = {
 			isa = PBXGroup;
 			children = (
+				9E7CD5192DFE19180054DC30 /* Poppins-SemiBold.ttf */,
+				9E15CD032E020E5400D69EA9 /* PoppinsRegular.ttf */,
+				9E15CD052E020EC800D69EA9 /* Poppins-Bold.ttf */,
+				9E15CD072E020F1E00D69EA9 /* Poppins-ExtraBold.ttf */,
 				9E7CD5062DFE0A4C0054DC30 /* Haul.app */,
 			);
 			name = Products;
@@ -115,7 +124,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E15CD062E020EC800D69EA9 /* Poppins-Bold.ttf in Resources */,
 				9E7CD51A2DFE19180054DC30 /* Poppins-SemiBold.ttf in Resources */,
+				9E15CD082E020F1E00D69EA9 /* Poppins-ExtraBold.ttf in Resources */,
+				9E15CD042E020E5400D69EA9 /* PoppinsRegular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
